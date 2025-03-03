@@ -13,3 +13,4 @@ let b;
 console.log(b);
 b = 5;
 // class is not hoisted
+console.log("harsha");
